@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
-p {
+body {
+    text-align: center;
     text-decoration: none;
     font-family: 'Noto Sans KR', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: #0059ff;
 }
